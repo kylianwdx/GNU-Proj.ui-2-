@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="img">
+    <file>media-playback-start-symbolic.svg</file>
+    <file>edit-clear-all-symbolic.svg</file>
+  </qresource>
+</RCC>
